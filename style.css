@@ -1,0 +1,49 @@
+.link-body {
+    background-color: rgb(15, 113, 93);
+    text-align: center;
+    padding: 25px;
+    font-size: large;
+}
+
+a {
+    color: rgb(177, 250, 236)
+}
+
+.title {
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 25px 50px 25px 50px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.home {
+    display: block;
+    width: 100px;
+    margin: auto;
+    background-color: rgb(15, 113, 93);
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 25px;
+
+}
+
+.Description {
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    height: 50px;
+    width: 200px;
+    padding: 15px;
+    text-align: center;
+    font-size: larger;
+    margin-top: 50px;
+}
+
+p {
+    box-sizing: border-box;
+    width: 400px;
+    background-color: aquamarine;
+}
